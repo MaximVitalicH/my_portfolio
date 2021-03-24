@@ -1,0 +1,108 @@
+body{
+  background: grey;
+  width: auto;
+}
+section{
+  margin:20px;
+}
+/* .main-header{
+  height: 800px;
+}  */
+
+.container{padding: 20px;
+  background: lightyellow;
+  width: 1080px;
+  margin: auto;
+}
+nav{margin-left: 540px;}
+.main-menu ul li {
+  display: inline;
+  margin: 10px 50px 10px 0px;
+  margin-bottom: auto;
+}
+ .logo{margin-top: -30px;
+   width: 150px;
+ }
+
+.header-title{margin-top: -100px;
+  margin-left: 200px;
+}
+
+.left {display: block;
+  float: left;
+  width: 720px;
+}
+
+.right{
+  margin-left: 750px;
+  padding: 10px;
+  /* margin-top: : -400px; */
+  width: 300px;
+  border: 1px solid black;
+}
+
+input{width: 270px;
+  padding: 10px;
+  margin: 5px;
+}
+textarea{width: 270px;
+  padding: 10px;
+  margin: 5px;}
+
+.righting{display: block;
+  float: right;
+  margin: 7px 7px 7px 0px;
+}
+
+.lefting{display: block;
+  float: left;
+  margin: 7px 7px 7px 0px;
+}
+ /* .promo{
+clear: both;
+}
+
+
+
+input{width: 250px;
+  padding: 10px;
+  margin: 5px;
+}
+.logo img{margin-top: 50px;
+
+  float: left;
+  width: 150px;
+}
+
+.header-title{
+  float: right;
+  width: 900px;
+}
+
+  .main-menu ul {
+    float: right;
+  }
+
+.main-menu ul li {
+  display: inline;
+  margin: 10px;
+
+  margin-bottom: auto;
+}
+
+ .left {
+display: block;
+  padding: 10px;
+float: left;
+margin-left: 10px;
+  width: 700px;
+}
+
+
+.right{
+float: right;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+  border: 1px solid black;
+}
